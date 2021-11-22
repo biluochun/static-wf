@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static-wf/static/css/main.8be7e604.chunk.css",
+    "main.js": "/static-wf/static/js/main.d4e17852.chunk.js",
+    "main.js.map": "/static-wf/static/js/main.d4e17852.chunk.js.map",
+    "runtime-main.js": "/static-wf/static/js/runtime-main.2da2c4a9.js",
+    "runtime-main.js.map": "/static-wf/static/js/runtime-main.2da2c4a9.js.map",
+    "static/js/2.f2b5a56f.chunk.js": "/static-wf/static/js/2.f2b5a56f.chunk.js",
+    "static/js/2.f2b5a56f.chunk.js.map": "/static-wf/static/js/2.f2b5a56f.chunk.js.map",
+    "static/js/3.c9929992.chunk.js": "/static-wf/static/js/3.c9929992.chunk.js",
+    "static/js/3.c9929992.chunk.js.map": "/static-wf/static/js/3.c9929992.chunk.js.map",
+    "index.html": "/static-wf/index.html",
+    "static/css/main.8be7e604.chunk.css.map": "/static-wf/static/css/main.8be7e604.chunk.css.map",
+    "static/js/2.f2b5a56f.chunk.js.LICENSE.txt": "/static-wf/static/js/2.f2b5a56f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static-wf/static/media/PIXELCRAFT.a0fe6f16.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2da2c4a9.js",
+    "static/js/2.f2b5a56f.chunk.js",
+    "static/css/main.8be7e604.chunk.css",
+    "static/js/main.d4e17852.chunk.js"
+  ]
+}
